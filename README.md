@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Khubaib Amjad</h1>
+<h1 align="center">Hi! I'm Khubaib Amjad</h1>
 
 <h3 align="center">
 Frontend Developer • UI/UX Designer • Python Enthusiast
