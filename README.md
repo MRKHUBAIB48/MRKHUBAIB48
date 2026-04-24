@@ -14,7 +14,7 @@ Building interactive web experiences and solving problems through code ♟
 
 ```yaml
 Name: Khubaib Amjad
-Focus: Frontend Development, UI/UX, Python
+Focus: Frontend Development, UI/UX Design, Python
 Current Project: Chess Board Game
 Open To Collaborate: Campus Connect
 Learning: React, Advanced JavaScript, AI with Python
@@ -60,14 +60,6 @@ Student collaboration platform.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Contribution Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
