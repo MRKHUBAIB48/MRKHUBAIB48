@@ -1,72 +1,112 @@
-<h1 align="center">Hi 👋, I'm Khubaib Amjad</h1>
+<h1 align="center">Hi 👋 I'm Khubaib Amjad</h1>
+
 <h3 align="center">
-Frontend Developer | UI/UX Designer | Python Enthusiast
+Frontend Developer • UI/UX Designer • Python Enthusiast
 </h3>
 
 <p align="center">
-Building modern web experiences and solving problems through code.
+Building interactive web experiences and solving problems through code ♟
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ♟ Currently building **Chess Board Game**
-- 🌱 Learning **Advanced Frontend Development and Python**
-- 🤝 Open to collaborate on **Campus Connect** and open source projects
-- 💡 Interested in **UI/UX, Web Apps, AI, and Interactive Design**
+```yaml
+Name: Khubaib Amjad
+Focus: Frontend Development, UI/UX, Python
+Current Project: Chess Board Game
+Open To Collaborate: Campus Connect
+Learning: React, Advanced JavaScript, AI with Python
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🌌 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,git,vscode,figma" />
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+</p>
 
 ---
 
-## 📌 Featured Projects
+## ♟ Current Projects
 
-### ♟ Chess Board
-Interactive chess game featuring:
-- Drag and drop pieces  
+### Chess Board Game
+Features:
+- Drag and drop moves  
 - Move validation  
-- Check and checkmate logic  
-- Castling and en passant  
-- Move history and timers  
+- Check / Checkmate logic  
+- Castling and En Passant  
+- Chess timer  
+- Save and load games  
 
-### 🎓 Campus Connect
-A platform focused on student collaboration and campus networking.
+### Campus Connect
+Student collaboration platform.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Contribution Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)  
-[Portfolio](YOUR_PORTFOLIO_URL)  
-[Behance](YOUR_BEHANCE_URL)
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_BEHANCE">
+<img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
-⭐ Always open to collaborating on interesting projects.
+## 💡 Quote
+
+<p align="center">
+Code is my logic ♟  
+Design is my passion 🎨
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
